@@ -1,0 +1,53 @@
+{
+  "mosque": {
+    "name": "Masjid Baitus Salam",
+    "defaultCity": "Bekasi",
+    "theme": "blue-white-gray"
+  },
+  "announcements": [
+    {
+      "title": "Jaga kebersihan masjid",
+      "text": "Buang sampah pada tempatnya dan rapikan kembali area yang digunakan."
+    },
+    {
+      "title": "Mohon silent ponsel",
+      "text": "Demi kekhusyukan ibadah, mohon nonaktifkan atau silent ponsel sebelum salat."
+    },
+    {
+      "title": "Kajian rutin",
+      "text": "Informasi jadwal kajian terbaru dapat diperbarui melalui file data/config.json."
+    }
+  ],
+  "agenda": [
+    {
+      "title": "Kajian Ahad Pagi",
+      "date": "Ahad",
+      "time": "08.00 WIB"
+    },
+    {
+      "title": "TPQ / TPA",
+      "date": "Senin–Jumat",
+      "time": "16.00 WIB"
+    },
+    {
+      "title": "Kajian Malam Jumat",
+      "date": "Kamis",
+      "time": "Ba'da Magrib"
+    }
+  ],
+  "dailyQuotes": [
+    {
+      "text": "Sesungguhnya salat itu adalah kewajiban yang ditentukan waktunya atas orang-orang beriman.",
+      "ref": "QS. An-Nisa: 103"
+    },
+    {
+      "text": "Perbanyaklah mengingat Allah dalam setiap keadaan.",
+      "ref": "Pesan pengingat untuk jamaah"
+    },
+    {
+      "text": "Masjid adalah tempat untuk menenangkan hati, mempererat silaturahmi, dan menumbuhkan kebaikan.",
+      "ref": "Pesan Masjid Baitus Salam"
+    }
+  ],
+  "ticker": "Selamat datang di Masjid Baitus Salam • Mohon menjaga kebersihan • Luruskan dan rapatkan saf • Matikan nada dering ponsel saat salat • Semoga ibadah kita diterima Allah SWT."
+}

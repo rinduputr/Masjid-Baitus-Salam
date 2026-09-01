@@ -1,0 +1,1 @@
+Tempatkan aset gambar/logo/QRIS di folder ini. Untuk QRIS, Anda dapat menambahkan assets/qris.png lalu menyesuaikan index.html.
