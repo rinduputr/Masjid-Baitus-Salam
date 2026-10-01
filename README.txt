@@ -1,0 +1,1 @@
+favicon.svg adalah favicon custom Masjid Baitus Salam: siluet masjid + bulan sabit dengan identitas biru-putih.\n

@@ -31,3 +31,7 @@ Untuk TV/Android TV, pastikan browser/perangkat mengizinkan lokasi atau ubah fal
 
 ## Kustomisasi
 Edit `data/config.json` untuk pengumuman, agenda, quote, dan running text.
+
+
+## Auto Scroll
+Setelah 2 detik tanpa aktivitas, halaman scroll perlahan ke bawah. Aktivitas user menghentikannya dan timer idle dimulai lagi. Saat mencapai bawah, halaman kembali cepat ke atas lalu melanjutkan auto-scroll. Pengaturan ada di `auto-scroll.js`.
